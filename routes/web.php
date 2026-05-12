@@ -9,7 +9,7 @@ Route::get('/', function () {
 
 Route::get('/file-manager', function () {
     return view('filemanager');
-});
+})->name('filemanager');
 
 Route::get('/files/{path}', [FileController::class, 'show'])
     ->where('path', '.*')
