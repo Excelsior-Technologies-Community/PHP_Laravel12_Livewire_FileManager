@@ -461,8 +461,3 @@ PHP_Laravel12_Livewire_FileManager/
 ---
 
 Your PHP_Laravel12_Livewire_FileManager Project is now ready!
-
-<<<<<<< HEAD
-=======
-
->>>>>>> development
